@@ -3,7 +3,9 @@
 <h3>Меня зовут Ольга. Я  QA Engineer (Junior Automation, Java)</h3>
 
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olgavas1006)](https://github.com/Olgavas1006/github-readme-stats)
+
 
 ### Мои инструменты и технологии:
 
