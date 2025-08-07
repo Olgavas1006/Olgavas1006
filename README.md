@@ -1,4 +1,4 @@
-<h1>Привет, я <a href="(https://github.com/Olgavas1006)" target="_blank">Ольга</a> 
+<h1align="center">Привет, я <a href="(https://github.com/Olgavas1006)" target="_blank">Ольга</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>Я  QA Engineer (Junior Automation, Java)</h3>
 <!--
