@@ -4,4 +4,5 @@
 <!--
 **Olgavas1006/Olgavas1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Olgavas1006)](https://github.com/Olgavas1006/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olgavas1006)](https://github.com/Olgavas1006/github-readme-stats)
+
