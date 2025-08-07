@@ -1,5 +1,5 @@
-<h1 align="center"> Всем привет, я Ольга </h1> 👋
-### hi
+<h1 align="center"> Всем привет</h1> 👋
+
 <!--
 **Olgavas1006/Olgavas1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
