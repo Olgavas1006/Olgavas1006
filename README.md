@@ -2,10 +2,13 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>Меня зовут Ольга. Я  QA Engineer (Junior Automation, Java)</h3>
 
+### Мои проекты
 
+:desktop_computer: [Rosgosstrakh.ru](https://github.com/Olgavas1006/rosgosstrakh-ui-tests) - дипломный демо-проект по тестированию веб-приложения Росгосстрах
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olgavas1006)](https://github.com/Olgavas1006/github-readme-stats)
+:desktop_computer: [Reqres.in](https://github.com/Olgavas1006/Regres-api-tests) - дипломный проект по тестированию API на Reqres.in 
 
+:desktop_computer: [Wikipedia](https://github.com/Olgavas1006/wikipedia-mobile-tests) - дипломный проект по автоматизации тестирования мобильного приложения
 
 ### Мои инструменты и технологии:
 
@@ -22,4 +25,10 @@
 <a href="https://www.jenkins.io/"><img width="6%" title="Jenkins" src="media/logo/Jenkins.svg"></a>
 <a href="https://web.telegram.org/"><img width="6%" title="Telegram" src="media/logo/Telegram.svg"></a>
 <a href="https://www.atlassian.com/software/jira/"><img width="5%" title="Jira" src="media/logo/Jira.svg"></a>
+<a href="https://rest-assured.io/"><img width="6%" title="RestAssured" src="media/logo/RestAssured.png"></a>
+<a href="https://developer.android.com/studio"><img width="6%" title="androidstudio" src="media/logo/androidstudio.svg"></a>
+<a href="https://www.browserstack.com/"><img width="6%" title="browserstack" src="media/logo/browserstack.svg"></a>
 </p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Olgavas1006)](https://github.com/Olgavas1006/github-readme-stats)
